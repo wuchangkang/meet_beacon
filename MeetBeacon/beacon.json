@@ -1,0 +1,51 @@
+ [
+  {
+  "UUID": "B01BCFC0-8F4B-11E5-A837-0821A8FF9A66",
+  "Major": 45803,
+  "Minor": 136,
+  "Msg": "府前一街與府前路口",
+  "Dial": ""
+  },
+  {
+  "UUID": "B01BCFC0-8F4B-11E5-A837-0821A8FF9A66",
+  "Major": 11445,
+  "Minor": 46182,
+  "Msg": "移民署門口",
+  "Dial": ""
+  },
+  {
+  "UUID": "6F45B046-C8AF-47A2-B844-C7E1A6A15F26",
+  "Major": 11,
+  "Minor": 11,
+  "Msg": "教室大門",
+  "Dial": ""
+  },
+  {
+  "UUID": "6F45B046-C8AF-47A2-B844-C7E1A6A15F26",
+  "Major": 12,
+  "Minor": 12,
+  "Msg": "分組桌A",
+  "Dial": ""
+  },
+  {
+  "UUID": "6F45B046-C8AF-47A2-B844-C7E1A6A15F26",
+  "Major": 13,
+  "Minor": 13,
+  "Msg": "前方無障礙坡道",
+  "Dial": ""
+  },
+  {
+  "UUID": "6F45B046-C8AF-47A2-B844-C7E1A6A15F26",
+  "Major": 14,
+  "Minor": 14,
+  "Msg": "到達市政府後門口",
+  "Dial": ""
+  },
+  {
+  "UUID": "6F45B046-C8AF-47A2-B844-C7E1A6A15F26",
+  "Major": 15,
+  "Minor": 15,
+  "Msg": "聯絡服務志工",
+  "Dial": "0937696739"
+  }
+  ]
